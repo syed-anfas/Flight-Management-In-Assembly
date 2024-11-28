@@ -30,7 +30,7 @@ Customer Options: Select from available flights, view flight details, or purchas
 
 Admin Functionalities
 Admins can manage flight information, including adding or editing flight timings and prices.
-Admins can view current bookings and seat availability.
+Admins can view current bookings and seat availability. If you want to login as a admin then username is "admin" and password is also "admin".
 
 Customer Functionalities
 Customers can view available flights along with their timings and prices.
